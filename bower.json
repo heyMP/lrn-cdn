@@ -1,15 +1,9 @@
 {
-  "name": "polymer-cdn",
-  "version": "2.0.2",
-  "main": "polymer.js",
-  "homepage": "https://github.com/Download/polymer-cdn",
-  "authors": [
-    "Stijn de Witt <stijndewitt@hotmail.com>"
-  ],
-  "description": "Mirror for Polymer so it can be used from CDN.",
+  "name": "lrn-cdn",
   "keywords": [
     "Polymer",
-    "CDN"
+    "CDN",
+    "LRNWebComponents"
   ],
   "license": "BSD",
   "ignore": [
